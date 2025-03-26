@@ -21,6 +21,9 @@
       }
     ],
     "default_title": "Scroll Lock",
-    "default_popup": "popup/toggle_lock.html"
   }
+}
+"background": {
+  "scripts": ["background.js"],
+  "persistent": false
 }
